@@ -1,5 +1,5 @@
-#github practice
-##Instructions
+# github practice
+## Instructions
 
 ```
 $ ruby github.rb 
